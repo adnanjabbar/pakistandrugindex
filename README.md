@@ -1,20 +1,13 @@
-# 🇵🇰 Pakistan Drug Index (PDI)
+# Pakistan Drug Index (PDI) – v2
 
-Pakistan Drug Index (PDI) is an open-source medical-grade drug database and API
-focused on medicines available in Pakistan.
+This repository contains the Pakistan Drug Index core dataset and pipelines.
 
-## Features
-- 1000+ drug ingestion pipeline
-- DRAP registration fields
-- Pregnancy numeric safety scoring
-- IVF / fertility-safe tagging
-- Market price trend engine
-- FastAPI backend
-- Public search-ready UI scaffold
-- Pharma portfolio & logo mapping
+## Structure
+- data/medicines: One file per generic (salt)
+- data/brands: Brand-level market info
+- data/market: Raw market snapshot (source-agnostic)
+- pipelines: Normalization & merge scripts
+- schema: Data models
 
-## Status
-Architecture + seed data ready. Bulk drug ingestion supported.
-
-## License
-MIT
+## Disclaimer
+For educational and clinical support use only.

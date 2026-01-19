@@ -1,0 +1,11 @@
+{
+  "generic_name": "string",
+  "therapeutic_class": "string",
+  "pregnancy": {"numeric_score": "0-5", "notes": "string"},
+  "lactation": {"safe": "boolean", "notes": "string"},
+  "fertility": {"male": "string", "female": "string"},
+  "addiction": {"potential": "string", "controlled_substance": "boolean"},
+  "contraindications": [],
+  "drug_interactions": [],
+  "forms": []
+}
