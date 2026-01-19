@@ -1,5 +1,6 @@
-# Clinical Enrichment Rules (PDI v3)
+# Clinical Rules – PDI v4
 
-Pregnancy scoring based on narrative keywords.
-Lactation and fertility fields require ongoing review.
-This dataset represents a clinically defensible baseline.
+- Pregnancy score 0–5
+- Lactation safe/unsafe
+- Fertility male/female
+- Addiction potential
