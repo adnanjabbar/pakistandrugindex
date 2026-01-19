@@ -1,0 +1,28 @@
+{
+  "generic_name": "string",
+  "brand_name": "string",
+  "atc_code": "string",
+  "therapeutic_class": "string",
+  "dosage_form": "string",
+  "strength": "string",
+  "manufacturer": "string",
+  "drap": {
+    "registered": true,
+    "registration_no": "string",
+    "registration_date": "YYYY-MM-DD"
+  },
+  "pregnancy_score": {
+    "score": 0,
+    "scale": "0 (contraindicated) - 5 (safe)"
+  },
+  "ivf_safe": true,
+  "lactation_safe": true,
+  "price_history": [
+    {
+      "date": "YYYY-MM",
+      "price_pkr": 0
+    }
+  ],
+  "status": "continued/discontinued",
+  "references": []
+}

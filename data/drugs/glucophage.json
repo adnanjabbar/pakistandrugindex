@@ -1,0 +1,32 @@
+{
+  "generic_name": "Metformin",
+  "brand_name": "Glucophage",
+  "atc_code": "A10BA02",
+  "therapeutic_class": "Antidiabetic",
+  "dosage_form": "Tablet",
+  "strength": "500mg",
+  "manufacturer": "Merck",
+  "drap": {
+    "registered": true,
+    "registration_no": "DRAP-XXXX",
+    "registration_date": "2020-01-01"
+  },
+  "pregnancy_score": {
+    "score": 4,
+    "scale": "0-5"
+  },
+  "ivf_safe": true,
+  "lactation_safe": true,
+  "price_history": [
+    {
+      "date": "2025-01",
+      "price_pkr": 500
+    }
+  ],
+  "status": "continued",
+  "references": [
+    "BNF",
+    "WHO"
+  ],
+  "last_updated": "2026-01-19"
+}

@@ -1,0 +1,32 @@
+{
+  "generic_name": "Clomiphene Citrate",
+  "brand_name": "Clomid",
+  "atc_code": "G03GB02",
+  "therapeutic_class": "Ovulation Inducer",
+  "dosage_form": "Tablet",
+  "strength": "50mg",
+  "manufacturer": "Sanofi",
+  "drap": {
+    "registered": true,
+    "registration_no": "DRAP-XXXX",
+    "registration_date": "2020-01-01"
+  },
+  "pregnancy_score": {
+    "score": 5,
+    "scale": "0-5"
+  },
+  "ivf_safe": true,
+  "lactation_safe": true,
+  "price_history": [
+    {
+      "date": "2025-01",
+      "price_pkr": 500
+    }
+  ],
+  "status": "continued",
+  "references": [
+    "BNF",
+    "WHO"
+  ],
+  "last_updated": "2026-01-19"
+}
