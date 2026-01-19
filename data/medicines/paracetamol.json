@@ -1,0 +1,24 @@
+{
+  "generic_name": "Paracetamol",
+  "therapeutic_class": "",
+  "pregnancy": {
+    "numeric_score": 3,
+    "notes": "To be reviewed"
+  },
+  "lactation": {
+    "safe": null,
+    "notes": "To be reviewed"
+  },
+  "fertility": {
+    "male": "",
+    "female": ""
+  },
+  "addiction": {
+    "potential": "None",
+    "controlled_substance": false
+  },
+  "contraindications": [],
+  "drug_interactions": [],
+  "forms": [],
+  "last_updated": "2026-01-19"
+}
