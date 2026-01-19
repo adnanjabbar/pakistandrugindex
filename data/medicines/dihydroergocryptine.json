@@ -1,0 +1,29 @@
+{
+  "generic_name": "Dihydroergocryptine",
+  "therapeutic_class": "Vasotherapeutics",
+  "mechanism_of_action": "",
+  "dosage_guidance": "Cerebral-activator-ergot alkaloids/xanthine.",
+  "pregnancy": {
+    "numeric_score": 3,
+    "category": "Limited data",
+    "notes": "Dihydroergocryptine Mesylate"
+  },
+  "lactation": {
+    "safe": null,
+    "notes": "Refer to literature"
+  },
+  "fertility": {
+    "male": "",
+    "female": ""
+  },
+  "addiction": {
+    "potential": "None",
+    "controlled_substance": false
+  },
+  "contraindications": [],
+  "drug_interactions": [],
+  "special_populations": {},
+  "forms": [],
+  "last_updated": "2026-01-19",
+  "source_version": "Clinical DB 2015"
+}
