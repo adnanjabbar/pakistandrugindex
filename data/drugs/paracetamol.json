@@ -1,0 +1,23 @@
+{
+  "generic_name": "Paracetamol",
+  "atc_code": "N02BE01",
+  "therapeutic_class": "Analgesic / Antipyretic",
+  "mechanism_of_action": "Central prostaglandin inhibition",
+  "pregnancy_safety": {
+    "category": "B",
+    "notes": "Generally safe at therapeutic doses"
+  },
+  "dosage_forms": [
+    {"form": "Tablet", "strength": "500 mg"}
+  ],
+  "brands": [
+    {
+      "brand_name": "Panadol",
+      "manufacturer": "GSK Pakistan",
+      "status": "Continued",
+      "price_pkr": 60
+    }
+  ],
+  "references": ["WHO", "BNF"],
+  "last_updated": "2026-01-19"
+}

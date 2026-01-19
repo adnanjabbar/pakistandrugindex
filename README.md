@@ -1,2 +1,21 @@
-# pakistandrugindex
-Pakistan Drug Index (PDI) the largest drug database of medicines in Pakistan with its brand names, generic forms, market values, its effectiveness, pregnancy safe index and all things related to drug information.
+# 🇵🇰 Pakistan Drug Index (PDI)
+
+Pakistan Drug Index (PDI) is an open-source, comprehensive database of medicines available in Pakistan.
+
+## Vision
+To become Pakistan’s largest and most reliable drug information repository for clinicians, pharmacists, researchers, and health-tech developers.
+
+## Core Features
+- Brand & generic names
+- Dosage forms & strengths
+- Pregnancy & lactation safety
+- Market availability
+- DRAP registration status
+- Manufacturer details
+- Market pricing & trends
+
+## Disclaimer
+For educational and informational purposes only. Does not replace clinical judgment.
+
+## License
+MIT

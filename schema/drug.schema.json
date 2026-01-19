@@ -1,0 +1,13 @@
+{
+  "generic_name": "string",
+  "atc_code": "string",
+  "therapeutic_class": "string",
+  "mechanism_of_action": "string",
+  "pregnancy_safety": {
+    "category": "string",
+    "notes": "string"
+  },
+  "dosage_forms": [],
+  "brands": [],
+  "references": []
+}
