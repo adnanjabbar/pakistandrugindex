@@ -1,0 +1,32 @@
+{
+  "generic_name": "Omeprazole",
+  "brand_name": "Losec",
+  "atc_code": "A02BC01",
+  "therapeutic_class": "PPI",
+  "dosage_form": "Capsule",
+  "strength": "20mg",
+  "manufacturer": "Getz Pharma",
+  "drap": {
+    "registered": true,
+    "registration_no": "DRAP-XXXX",
+    "registration_date": "2020-01-01"
+  },
+  "pregnancy_score": {
+    "score": 3,
+    "scale": "0-5"
+  },
+  "ivf_safe": true,
+  "lactation_safe": true,
+  "price_history": [
+    {
+      "date": "2025-01",
+      "price_pkr": 500
+    }
+  ],
+  "status": "continued",
+  "references": [
+    "BNF",
+    "WHO"
+  ],
+  "last_updated": "2026-01-19"
+}
