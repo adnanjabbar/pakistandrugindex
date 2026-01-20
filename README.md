@@ -30,6 +30,9 @@ PDI aims to fill that gap with a **transparent, file-driven, API-first architect
 - **Frontend built for data density, not demos**
 
 ---
+
+```json
+{
 pakistandrugindex/
 │
 ├── backend/
@@ -67,7 +70,7 @@ pakistandrugindex/
 ├── docs/
 ├── scripts/
 └── README.md
-
+}
 ---
 
 ## 💊 Medicine Data Model
